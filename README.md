@@ -24,5 +24,5 @@
 [Дашборд](https://datalens.yandex/pzd6f6ps31k2b)
 
 ### Выводы и рекомендации
-[Аналитическая записка](./Аналитическая записка_real_estate.pdf)
+[Аналитическая записка](https://github.com/ChristinaGoncharova/Real_estate_analysis/blob/adeeecc2d2145e19fa0a1fb77efa2e195882a1f6/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B0_real_estate.pdf)
 
